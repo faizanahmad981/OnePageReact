@@ -1,0 +1,1 @@
+export { OutlineCallPhoneRounded } from "./OutlineCallPhoneRounded";

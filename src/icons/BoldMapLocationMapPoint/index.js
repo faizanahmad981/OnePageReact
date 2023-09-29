@@ -1,0 +1,1 @@
+export { BoldMapLocationMapPoint } from "./BoldMapLocationMapPoint";

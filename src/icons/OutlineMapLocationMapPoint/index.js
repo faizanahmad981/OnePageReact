@@ -1,0 +1,1 @@
+export { OutlineMapLocationMapPoint } from "./OutlineMapLocationMapPoint";

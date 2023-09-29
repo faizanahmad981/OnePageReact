@@ -1,0 +1,1 @@
+export { BoldTimeCalendarMinimalistic } from "./BoldTimeCalendarMinimalistic";

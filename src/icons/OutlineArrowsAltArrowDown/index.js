@@ -1,0 +1,1 @@
+export { OutlineArrowsAltArrowDown } from "./OutlineArrowsAltArrowDown";
